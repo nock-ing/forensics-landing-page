@@ -21,19 +21,9 @@ export default function NavBar() {
               >Features</a
               >
               <a
-                href="#how-it-works"
+                href="#soon"
                 className="px-3 py-2 rounded-md text-sm font-medium hover:text-primary-light dark:hover:text-primary-dark transition-colors"
-              >How It Works</a
-              >
-              <a
-                href="#demo"
-                className="px-3 py-2 rounded-md text-sm font-medium hover:text-primary-light dark:hover:text-primary-dark transition-colors"
-              >Demo</a
-              >
-              <a
-                href="#docs"
-                className="px-3 py-2 rounded-md text-sm font-medium hover:text-primary-light dark:hover:text-primary-dark transition-colors"
-              >Documentation</a
+              >Documentation (coming soon!)</a
               >
             </div>
           </div>
