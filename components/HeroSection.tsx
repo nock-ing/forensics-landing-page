@@ -1,5 +1,3 @@
-import TransactionGraph from "@/components/ui/TransactionGraph";
-
 export default function HeroSection() {
     return (
         <div className="relative overflow-hidden">

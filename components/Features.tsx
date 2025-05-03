@@ -1,6 +1,3 @@
-import TransactionGraph from "@/components/ui/TransactionGraph";
-
-
 export default function Features() {
     return (
         <>
